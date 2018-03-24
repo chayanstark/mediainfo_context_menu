@@ -1,0 +1,26 @@
+baseURL = "https://chayanstark.github.com/mediainfo_context_menu/"
+themesDir = "themes"
+languageCode = "en-us"
+title = "MediaInfo Context Menu Fix"
+theme = "kube"
+description = "Fix for missing context menu of MediaInfo in Windows OS"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Chayan Stark" # add your company name
+  github = "chayanstark" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "golu.30190@gmail.com"
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
