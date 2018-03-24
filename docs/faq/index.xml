@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ on MediaInfo Context Menu Fix</title>
-    <link>https://chayanstark.github.com/mediainfo_context_menu/faq/</link>
+    <link>https://chayanstark.github.io/mediainfo_context_menu/faq/</link>
     <description>Recent content in FAQ on MediaInfo Context Menu Fix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://chayanstark.github.com/mediainfo_context_menu/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chayanstark.github.io/mediainfo_context_menu/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

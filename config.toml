@@ -1,4 +1,4 @@
-baseURL = "https://chayanstark.github.com/mediainfo_context_menu/"
+baseURL = "https://chayanstark.github.io/mediainfo_context_menu/"
 themesDir = "themes"
 publishDir ="docs"
 languageCode = "en-us"
