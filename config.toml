@@ -1,5 +1,6 @@
 baseURL = "https://chayanstark.github.com/mediainfo_context_menu/"
 themesDir = "themes"
+publishDir ="docs"
 languageCode = "en-us"
 title = "MediaInfo Context Menu Fix"
 theme = "kube"
